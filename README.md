@@ -46,7 +46,7 @@ app.component.html:
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: PRANAVE B
+            Developed by: ROHITH S.V
         </div>
     </div>
 </body>
